@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RechargeApp</string>
+    <string name="accessibility_service_description">Enable permissions from use USSD displays</string>
+</resources>
